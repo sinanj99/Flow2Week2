@@ -1,0 +1,14 @@
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day4/JavaScript REST_Persons_DTO/src/main/java/entities/Person.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day4/JavaScript REST_Persons_DTO/src/main/java/entities/PersonsDTO.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day4/JavaScript REST_Persons_DTO/src/main/java/facades/PersonFacade.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day4/JavaScript REST_Persons_DTO/src/main/java/exceptions/GenericExceptionMapper.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day4/JavaScript REST_Persons_DTO/src/main/java/entities/PersonDTO.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day4/JavaScript REST_Persons_DTO/src/main/java/entities/Address.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day4/JavaScript REST_Persons_DTO/src/main/java/rest/ApplicationConfig.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day4/JavaScript REST_Persons_DTO/src/main/java/utils/EMF_Creator.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day4/JavaScript REST_Persons_DTO/src/main/java/facades/IPersonFacade.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day4/JavaScript REST_Persons_DTO/src/main/java/exceptions/ExceptionDTO.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day4/JavaScript REST_Persons_DTO/src/main/java/exceptions/PersonNotFoundException.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day4/JavaScript REST_Persons_DTO/src/main/java/utils/Settings.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day4/JavaScript REST_Persons_DTO/src/main/java/exceptions/PersonNotFoundExceptionMapper.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day4/JavaScript REST_Persons_DTO/src/main/java/rest/PersonResource.java

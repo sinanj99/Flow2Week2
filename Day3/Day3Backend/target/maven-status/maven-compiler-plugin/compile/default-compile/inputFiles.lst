@@ -1,0 +1,9 @@
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day3/Day3Backend/src/main/java/cors/CorsResponseFilter.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day3/Day3Backend/src/main/java/cors/CorsRequestFilter.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day3/Day3Backend/src/main/java/rest/ApplicationConfig.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day3/Day3Backend/src/main/java/entities/Person.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day3/Day3Backend/src/main/java/entities/PersonDTO.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day3/Day3Backend/src/main/java/facades/PersonFacade.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day3/Day3Backend/src/main/java/rest/PersonResource.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day3/Day3Backend/src/main/java/utils/Settings.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week2/Day3/Day3Backend/src/main/java/utils/EMF_Creator.java
